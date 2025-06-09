@@ -1,6 +1,8 @@
 # Archangel Linux
 An up-and-coming Arch-based Linux distro... yeah thats all i have to say for now.
-## HOW TO BUILD
-SO FIRST OFF YOU WILL WANT TO CLONE THIS REPO'S CONTENT INTO SOMEWHERE SAFE... LIKE A FOLDER... A FOLDER NAEMD ARCHANGELLINUX AND TRHEN YOU WILL INSTALL THE archiso PACKAGE FROM THE ARCH LINUX REPOSITORES, ONCE DONE, NAVIGATE TOT THE FOLDER THAT HAS THE REPOS CONTENT AND RUN 
-``sudo mkarchiso -v /PATHTO/THEFOLDER/ARCHANGELLINUX/ISIN``
-THEN IT'LL SPIT OUT AN ISO GO BOOT THAT YOU'RE DONE GOOD BYE
+## HOW TO BUILD  
+(for Arch)  
+``sudo pacman -S archiso``  
+``git clone https://github.com/mewity1816/archangel-linux``  
+``cd archangel-linux``  
+``sudo mkarchiso -v ./``  
