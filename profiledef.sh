@@ -1,12 +1,12 @@
 #!/usr/bin/env bash
 # shellcheck disable=SC2034
 
-iso_name="YADBD"
+iso_name="Archangel Linux"
 iso_label="ARCH_$(date --date="@${SOURCE_DATE_EPOCH:-$(date +%s)}" +%Y%m)"
 iso_publisher="mewity^acidbox"
-iso_application="YADBD Ain't a Debian Based Distro"
+iso_application="Archangel Linux"
 iso_version="$(date --date="@${SOURCE_DATE_EPOCH:-$(date +%s)}" +%Y.%m.%d)"
-install_dir="yadbd"
+install_dir="archangel"
 buildmodes=('iso')
 bootmodes=('bios.syslinux.mbr' 'bios.syslinux.eltorito'
            'uefi-ia32.systemd-boot.esp' 'uefi-x64.systemd-boot.esp'
