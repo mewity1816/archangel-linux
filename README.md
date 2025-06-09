@@ -1,8 +1,8 @@
 # Archangel Linux
-An up-and-coming Arch-based Linux distro... yeah thats all i have to say for now.
-## HOW TO BUILD  
+An up-and-coming Archiso-based Linux distro... yeah thats all i have to say for now.
+## Building 
 (for Arch)  
-``sudo pacman -S archiso``  
-``git clone https://github.com/mewity1816/archangel-linux``  
-``cd archangel-linux``  
-``sudo mkarchiso -v ./``  
+``# pacman -S --needed archiso git``  
+``# git clone https://github.com/mewity1816/archangel-linux``  
+``# cd archangel-linux``  
+``# mkarchiso -v ./``
