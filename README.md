@@ -1,2 +1,2 @@
-# YADBD (Yet Another Debian Based Distro)
-An up-and-coming Debian-based Linux distro, for beginners by beginners (well... only two beginners).
+# Archangel Linux
+An up-and-coming Arch-based Linux distro... yeah thats all i have to say for now.
