@@ -3,6 +3,6 @@ An up-and-coming Archiso-based Linux distro... yeah thats all i have to say for 
 ## Building 
 (for Arch)  
 ``# pacman -S --needed archiso git``  
-``# git clone https://github.com/mewity1816/archangel-linux``  
+``~ git clone https://github.com/mewity1816/archangel-linux``  
 ``# cd archangel-linux``  
 ``# mkarchiso -v ./``
