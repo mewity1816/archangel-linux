@@ -1,5 +1,7 @@
-# Archangel Linux
-An up-and-coming Archiso-based Linux distro... yeah thats all i have to say for now.
+# Archangel Linux test repo
+
+An up-and-coming Archiso-based Linux distro maintained by a person with too much hope.
+
 ## Building 
 (for Arch)  
 ``# pacman -S --needed archiso git``  
