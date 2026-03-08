@@ -1,6 +1,6 @@
-# Archangel Linux test repo
+# Archangel Linux test branch
 
-An up-and-coming Archiso-based Linux distro maintained by a person with too much hope.
+An up-and-coming (hopefully) Archiso-based Linux distro maintained by a person with too much hope.
 
 ## Building 
 (for Arch)  
